@@ -1,0 +1,26 @@
+{
+  "cities": [
+    {
+      "City_Name": "Paris",
+      "Latitude": 48.8566,
+      "Longitude": 2.3522,
+      "Temperature": 18,
+      "Humidity": 65
+    },
+    {
+      "City_Name": "Tokyo",
+      "Latitude": 35.6895,
+      "Longitude": 139.6917,
+      "Temperature": 25,
+      "Humidity": 55
+    },
+    {
+      "City_Name": "Pakistan",
+      "Latitude": 35.6895,
+      "Longitude": 139.6917,
+      "Temperature": 25,
+      "Humidity": 55
+    }
+
+  ]
+}

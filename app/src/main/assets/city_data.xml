@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cities>
+    <city>
+        <City_Name>New York</City_Name>
+        <Latitude>40.7128</Latitude>
+        <Longitude>-74.0060</Longitude>
+        <Temperature>20</Temperature>
+        <Humidity>60</Humidity>
+    </city>
+
+    <city>
+        <City_Name>Ind</City_Name>
+        <Latitude>51.5074</Latitude>
+        <Longitude>-0.1278</Longitude>
+        <Temperature>15</Temperature>
+        <Humidity>70</Humidity>
+    </city>
+</cities>
